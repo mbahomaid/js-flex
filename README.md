@@ -14,5 +14,5 @@
 To start solving challenges, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/js-flex.git
+git clone https://github.com/mbahomaid/js-flex.git
 cd js-flex
